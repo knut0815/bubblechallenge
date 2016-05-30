@@ -2,9 +2,6 @@ Bubble Interview Challenge
 
 I chose to implement the Bubble Packing program in C# as a generic WinForms app w/in Visual Studio 2015 targeting the .NET Framework 4.5.2.
 
-Source
-The entire solution can be found in the attached BubbleChallenge.zip file.
-
 Binaries
 The debug exe can be found at BubbleChallenge\BubbleApp\bin\Debug\BubbleApp.exe.
 
