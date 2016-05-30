@@ -1,0 +1,9 @@
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\bin\Debug\BubbleApp.exe.config
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\bin\Debug\BubbleApp.exe
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\bin\Debug\BubbleApp.pdb
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\obj\Debug\BubbleApp.csprojResolveAssemblyReference.cache
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\obj\Debug\BubbleApp.Form1.resources
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\obj\Debug\BubbleApp.Properties.Resources.resources
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\obj\Debug\BubbleApp.csproj.GenerateResource.Cache
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\obj\Debug\BubbleApp.exe
+C:\Users\rwszy\Projects\BubbleChallenge\BubbleApp\obj\Debug\BubbleApp.pdb
